@@ -39,6 +39,7 @@
 		"@types/node": "25.0.9",
 		"commit-and-tag-version": "12.6.1",
 		"json-schema-to-typescript": "15.0.4",
+		"rolldown": "1.0.1",
 		"ts-to-zod": "5.1.0",
 		"tsx": "4.21.0",
 		"zod": "4.3.5"
