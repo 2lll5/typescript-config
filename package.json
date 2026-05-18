@@ -9,6 +9,9 @@
 		"default": "./dist/tsconfig.json"
 	},
 	"main": "./dist/tsconfig.json",
+	"bin": {
+		"init": "./dist/script/init.js"
+	},
 	"scripts": {
 		"build": "tsx script/build",
 		"schema:update": "tsx script/updateJsonDefinition",
