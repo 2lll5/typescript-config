@@ -48,6 +48,24 @@ As the configuration only handles `compilerOptions`, the reasoning behind each s
 
 ## Installation
 
+### Without a Dependency
+
+The configuration supports creating a `tsconfig.json` file without adding the configuration as a dependency. This can be done with the following command
+
+```bash
+npx @cookielab.io/typescript-config init
+```
+
+By default, the command will create a `tsconfig.json` file with the configuration from this project.
+
+In case you want to create the configuration under a custom name, use the `--target` parameter
+
+```bash
+npx @cookielab.io/typescript-config init --target tsconfig.custom.json # This will create the configuration under `tsconfig.custom.json`
+```
+
+### As a Dependency
+
 First add the package as a development dependency using your package manager of choice.
 
 ```bash
