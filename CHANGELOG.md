@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.1.2](https://github.com/cookielab/typescript-config/compare/v0.1.1...v0.1.2) (2026-05-19)
+
+
+### Bug Fixes
+
+* **bin:** include the node banner in init build ([239bbba](https://github.com/cookielab/typescript-config/commit/239bbba120d717fde829d9cbf2436dc9298cdf2a))
+
 ## [0.1.1](https://github.com/cookielab/typescript-config/compare/v0.1.0...v0.1.1) (2026-05-19)
 
 
