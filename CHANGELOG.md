@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.1.1](https://github.com/cookielab/typescript-config/compare/v0.1.0...v0.1.1) (2026-05-19)
+
+
+### Features
+
+* **bin:** add the init script ([ad844af](https://github.com/cookielab/typescript-config/commit/ad844affd0f174358aff341453b3202dee5332fa))
+
 ## [0.1.0](https://github.com/cookielab/typescript-config/compare/v0.0.4...v0.1.0) (2026-04-27)
 
 
