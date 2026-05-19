@@ -54,6 +54,7 @@ const buildScripts = async (): Promise<void> => {
 
 	await bundle.write({
 		file: path.join("dist", "script", "init.js"),
+		banner: "#!/usr/bin/env node",
 		minify: true,
 	});
 };
