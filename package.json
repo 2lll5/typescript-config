@@ -25,6 +25,7 @@
 		"typescript",
 		"typescript-config"
 	],
+	"license": "MIT",
 	"type": "module",
 	"repository": {
 		"url": "https://github.com/cookielab/typescript-config"
